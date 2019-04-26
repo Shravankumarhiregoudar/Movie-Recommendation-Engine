@@ -15,7 +15,6 @@ The dataset consists of:
 
 ALS
 KNN
-Naive Bayes
 Cosine similarity
 
 
